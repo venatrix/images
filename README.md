@@ -1,4 +1,5 @@
-
+## Flavors of OPENSHIFT
+![](3_flavors_of_openshift.png)
 
 
 
