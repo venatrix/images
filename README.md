@@ -6,5 +6,9 @@
 ![](s2i.png)
 
 
-## Openshift Storage Systems.png
+## Openshift Storage Systems
 ![](openshift_storage_systems.png)
+
+
+## Openshift Supported Storage FS
+![](supportedstoragefs.PNG)
